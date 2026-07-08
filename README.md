@@ -1,5 +1,4 @@
 # Secure-Web-Application-Deployment-on-Google-Cloud
-# Secure Web Application Deployment on Google Cloud
 
 ## Overview
 
