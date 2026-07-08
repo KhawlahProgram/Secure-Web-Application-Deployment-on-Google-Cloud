@@ -50,3 +50,12 @@ As part of this lab, the following cloud security practices were implemented:
 ## Outcome
 
 Successfully deployed a functional web application with secure database connectivity, implemented basic cloud security controls, and validated secure communication between cloud services following Google Cloud best practices.
+
+
+<img width="1280" height="832" alt="‏لقطة الشاشة ٢٠٢٦-٠٧-٠٧ في ٤ ٠٥ ٤٧ م" src="https://github.com/user-attachments/assets/0ad57999-ef09-4b83-8bda-5d6f917c0988" />
+<img width="1261" height="707" alt="‏لقطة الشاشة ٢٠٢٦-٠٧-٠٧ في ١١ ٢٣ ٢٤ م" src="https://github.com/user-attachments/assets/a506aea8-7ec7-42aa-8b95-09aeacc4b651" />
+
+<img width="1280" height="832" alt="‏لقطة الشاشة ٢٠٢٦-٠٧-٠٧ في ١١ ٢٧ ٠٧ م" src="https://github.com/user-attachments/assets/2be0d95a-1103-4410-821d-b3c1a8eb3aa2" />
+
+
+
